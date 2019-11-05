@@ -1,4 +1,4 @@
-//Sabas Hame Elfiliali Limam  B17
+//Sabas Hamza Elfiliali Limam  B17
 
 
 var tempScore,joueurActif,jeuxActif;
